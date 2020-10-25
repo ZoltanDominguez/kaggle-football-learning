@@ -19,11 +19,11 @@ https://towardsdatascience.com/google-football-environment-installation-and-trai
 
 One representation we are planning to use is Super Mini Map (SMM) representation. It is visualized by many competitors, here is an example:
 
-![Kaggle_SMM.png](attachment:pics/Kaggle_SMM.png)
+![Kaggle_SMM](pics/Kaggle_SMM.png)
 
 ### Action set
 The environment supports 20 actions listed here:
-![action_set.png](attachment:pics/action_set.png)
+![Action_set](pics/action_set.png)
 
 ### Reward function
 One very straightforward reward function is the goal score.
