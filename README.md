@@ -1,6 +1,9 @@
 # Google Research Football
 ## Train agents to master the world's most popular sport
 
+We are creating a machine learning model with reinforcement learning techniques to play in Google Football environment.
+There is a kaggle competition at this time, we are submitting our most successful model there too.
+
 This paper by Google Research describes the environment. Also it provides benchmark results for three stateof-the-art reinforcement learning algorithms. Two of them are popular policy gradient methods (PPO, IMPALA) and one is a modern DQN implementation (Ape-X DQN).
 
 1. PPO (Schulman et al., 2017, https://arxiv.org/pdf/1707.06347.pdf)
