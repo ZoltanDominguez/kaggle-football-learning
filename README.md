@@ -22,7 +22,7 @@ One representation we are planning to use is Super Mini Map (SMM) representation
 ![Kaggle_SMM](pics/Kaggle_SMM.png)
 
 ### Action set
-The environment supports 20 actions listed here:
+The environment supports 19 actions listed here:
 ![Action_set](pics/action_set.png)
 
 ### Reward function
