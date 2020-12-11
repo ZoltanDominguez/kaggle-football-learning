@@ -35,3 +35,11 @@ One very straightforward reward function is the goal score.
 ### Reinforcement learning
 Reinforcement learning articles listed that seems to cover most of the topic:
 https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
+
+# Information about us needed for Deep Learning Class at BME:
+### Team Name 
+SoccerPunch
+### Team Members:
+Dominguez Zoltán (DQN methods)
+Koszticza Marcell Lőrinc (IMPALA methods)
+Kovács Máté Barnabás (PPO methods)
