@@ -36,6 +36,29 @@ One very straightforward reward function is the goal score.
 Reinforcement learning articles listed that seems to cover most of the topic:
 https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
 
+
+# Information for testing and training further.
+Current best model weights can be loaded from the repo. (you can found it at the res/weights folder)
+The gfootbal_colab notebook consists the training and evaluating code as well. The notebook runs in Google Colaboratory on CPU and on GPU as well.
+
+The notebook contains code if you only want to replay the evaluation or if you want to train the model further. The model may also need some optimizations.
+
+# Relevant Papers:
+DQN Playing Atari with Deep Reinforcement Learning:
+https://arxiv.org/pdf/1312.5602.pdf
+Human-level control through deep reinforcement
+learning
+http://files.davidqiu.com//research/nature14236.pdf
+---
+Rainbow: Combining Improvements in Deep Reinforcement Learning:
+Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver
+https://arxiv.org/abs/1710.02298
+---
+PRIORITIZED EXPERIENCE REPLAY
+Tom Schaul, John Quan, Ioannis Antonoglou and David Silver
+Google DeepMind
+https://arxiv.org/pdf/1511.05952.pdf
+
 # Information about us needed for Deep Learning Class at BME:
 ### Team Name 
 SoccerPunch
