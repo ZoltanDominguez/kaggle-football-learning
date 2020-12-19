@@ -44,25 +44,24 @@ The gfootbal_colab notebook consists the training and evaluating code as well. T
 The notebook contains code if you only want to replay the evaluation or if you want to train the model further. The model may also need some optimizations.
 
 # Relevant Papers:
-DQN Playing Atari with Deep Reinforcement Learning:
-https://arxiv.org/pdf/1312.5602.pdf
-Human-level control through deep reinforcement
-learning
-http://files.davidqiu.com//research/nature14236.pdf
+* DQN Playing Atari with Deep Reinforcement Learning:
+* https://arxiv.org/pdf/1312.5602.pdf
 ---
-Rainbow: Combining Improvements in Deep Reinforcement Learning:
-Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver
-https://arxiv.org/abs/1710.02298
+* Human-level control through deep reinforcement learning
+* http://files.davidqiu.com//research/nature14236.pdf
 ---
-PRIORITIZED EXPERIENCE REPLAY
-Tom Schaul, John Quan, Ioannis Antonoglou and David Silver
-Google DeepMind
-https://arxiv.org/pdf/1511.05952.pdf
+* Rainbow: Combining Improvements in Deep Reinforcement Learning:
+* Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver
+* https://arxiv.org/abs/1710.02298
+---
+* PRIORITIZED EXPERIENCE REPLAY
+* Tom Schaul, John Quan, Ioannis Antonoglou and David Silver from Google DeepMind
+* https://arxiv.org/pdf/1511.05952.pdf
 
 # Information about us needed for Deep Learning Class at BME:
 ### Team Name 
 SoccerPunch
 ### Team Members:
-Dominguez Zoltán (DQN methods)
-Koszticza Marcell Lőrinc (IMPALA methods)
-Kovács Máté Barnabás (PPO methods)
+* Dominguez Zoltán (DQN methods)
+* Koszticza Marcell Lőrinc (IMPALA methods)
+* Kovács Máté Barnabás (PPO methods)
